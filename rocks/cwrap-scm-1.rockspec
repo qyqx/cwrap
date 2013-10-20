@@ -3,7 +3,6 @@ version = "scm-1"
 
 source = {
    url = "git://github.com/torch/cwrap.git",
-   dir = "torch7-split/rocks/cwrap"
 }
 
 description = {
